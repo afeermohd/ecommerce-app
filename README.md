@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+### E-Commerce - A Shopping Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### [Live Link](https://ecommerce-afeer.netlify.app/)
+
+![E-Commerce]()
+
+## Introduction
+
+This is a code repository for an ecommerce website using CommerceJS for backend and Stripe for payment options.
 
 ## Available Scripts
 
